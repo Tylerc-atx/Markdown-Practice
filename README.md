@@ -7,7 +7,7 @@ A good markdown reference
 http://www.markdowntutorial.com/conclusion/
 A good basic markdown tutorial
 
-#####FORMATS:
+##FORMATS:
 
 ~~Double-tilde will create a strikethrough~~
 
@@ -23,12 +23,12 @@ By the way, word wrap is ok to use for markdown, since it is not code
 
 Use a Hash to make a header, you can make larger headers by adding another Hash... all the way up to seven hashes
 
-# Header 1
+####### Header 7
 #### Header 4
 
 You can italicize words in a header, although you can't make it bold
 
-## This _is_ a header!
+##### This _is_ a header!
 
 To make an inline line, wrap texts in brackets, then parentheses
 [This link goes to google](www.google.com)
@@ -37,7 +37,7 @@ To make an inline line, wrap texts in brackets, then parentheses
 
 ####Make a [link](www.google.com) within a header!
 
-####REFERENCE LINKS:
+##REFERENCE LINKS:
 
 Place a double bracketted linkname/link combo, but the link portion is a reference variable.
 At the bottom of the document, the references variables are defined as links by linkname in brackets, followed by a colon, followed by the link
@@ -47,13 +47,13 @@ The reference link below is invisible when rendered
 [this link is a reference][google]
 [google]:www.google.com
 
-####IMAGES:
+##IMAGES:
 
 Image begins with a !, then includes 'description' in brackets, then a pair of parentheses with the image url
 
 ![image of google logo description](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
-####IMAGE REFERENCE LINKS:
+##IMAGE REFERENCE LINKS:
 
 Same as reference links. A ! and bracket for description and reference variable, then another set with reference variable, colon, link
 
@@ -61,7 +61,7 @@ Same as reference links. A ! and bracket for description and reference variable,
 [reference link]:https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
 
 
-####BLOCK QUOTES:
+##BLOCK QUOTES:
 
 Preface a line with a greater-than caret >. Blank lines must be block quoted if they will be included in the block.
 
@@ -76,7 +76,7 @@ Can include other formats in the block quote
 > going to _italicize_ here
 
 
-####LISTS:
+##LISTS:
 
 Bullet lists: Preface line with a single asterisk and space
 
@@ -113,7 +113,7 @@ Paragraph must start on a line all by itself underneath the bullet point but ind
  Two spaces could be used to to include this, but it will render the same.
 
 
-####PARAGRAPHS:
+##PARAGRAPHS:
 
 Typing a singe line after another line will add an extra 'break' line when rendered. Most paragraphs will work using word wrap with a single line of text in the editor, but if a single space is wanted, use two spaces at the end.
 
@@ -173,7 +173,7 @@ okay. Many renderers won't know what code to render
     Block of code continued here
     The four-space style block doesn't support syntax highlighting
 
-####TABLES
+##TABLES
 
 Tables are used to align columns. There must be at least 3 dashes seperating each header cell. The outer pipes are optional. The markdown does not need to line up pretty. Colons can be used in lieu of dashes at one end of the header column to specify alignment.
 
@@ -190,7 +190,7 @@ large|small
 Number of dashes does not matter
 
 
-#### Inline HTML
+## Inline HTML
 
 Simply put html within markdown
 
@@ -203,7 +203,7 @@ Simply put html within markdown
 </dl>
 
 
-#### Horizontal Rule
+## Horizontal Rule
 
 Three or more dashes
 
