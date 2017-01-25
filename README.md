@@ -210,7 +210,7 @@ Simply put html within markdown
 
 ## Horizontal Rule
 
-Three or more dashes
+Three or more dashes. Need to add a space between the text and horizontal rule, or the text will become a heading.
 
 These are  
 
