@@ -119,7 +119,7 @@ Typing a singe line after another line will add an extra 'break' line when rende
 newlines make no difference in git
 
 
-  
+
 
 
 
@@ -151,11 +151,11 @@ one line apart
  sub paragraph is lined up
 
 
- ####CODE:
+####CODE:
 
- Inline code has backticks around it
+Inline code has backticks around it
 
- This contains `snippets` of `code` in this line
+This contains `snippets` of `code` in this line
 
 Blocks of code:
 Either use three backticks on the ends of a block, or indent the block by four spaces. Only the code blocked into three backticks can contain highlights.
@@ -212,7 +212,7 @@ Simply put html within markdown
 
 Three or more dashes
 
-These are
+These are  
 ---
-Rule seperated
+Rule seperated  
 ---
