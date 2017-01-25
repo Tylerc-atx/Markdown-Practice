@@ -213,6 +213,9 @@ Simply put html within markdown
 Three or more dashes
 
 These are  
+
 ---
+
 Rule seperated  
+
 ---
