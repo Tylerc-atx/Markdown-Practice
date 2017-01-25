@@ -6,6 +6,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 A good markdown reference
 http://www.markdowntutorial.com/conclusion/
 A good basic markdown tutorial
+https://en.support.wordpress.com/markdown-quick-reference/
+Markdown reference sheet that I have no added notes on yet
 
 ##FORMATS:
 
