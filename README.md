@@ -116,6 +116,10 @@ Paragraph must start on a line all by itself underneath the bullet point but ind
 ##PARAGRAPHS:
 
 Typing a singe line after another line will add an extra 'break' line when rendered. Most paragraphs will work using word wrap with a single line of text in the editor, but if a single space is wanted, use two spaces at the end.
+newlines make no difference in git
+
+
+  
 
 
 
