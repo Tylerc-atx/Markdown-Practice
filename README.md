@@ -30,10 +30,10 @@ You can italicize words in a header, although you can't make it bold
 
 ##### This _is_ a header!
 
-To make an inline line, wrap texts in brackets, then parentheses
+To make an inline line, wrap texts in brackets, then parentheses  
 [This link goes to google](www.google.com)
 
-[**You can** make the text bold](www.google.com)
+[**You can** make the text bold within a link description](www.google.com)
 
 ####Make a [link](www.google.com) within a header!
 
@@ -116,6 +116,7 @@ Paragraph must start on a line all by itself underneath the bullet point but ind
 ##PARAGRAPHS:
 
 Typing a singe line after another line will add an extra 'break' line when rendered. Most paragraphs will work using word wrap with a single line of text in the editor, but if a single space is wanted, use two spaces at the end.
+
 
 
 Hard Break:
